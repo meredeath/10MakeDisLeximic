@@ -75,7 +75,7 @@ def print_matrix( matrix ):
         for c in range( len(matrix) ):
             s+= str(matrix[c][r]) + ' '
         s+= '\n'
-    print s
+    print(s)
 
 def ident( matrix ):
     for r in range( len( matrix[0] ) ):

@@ -1,4 +1,3 @@
-    
 from script import run
 import sys
 
